@@ -1,0 +1,2 @@
+echo "✅ Rodando verificação completa antes do push..."
+npm run check:ci

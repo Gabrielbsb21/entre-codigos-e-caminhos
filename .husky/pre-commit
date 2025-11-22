@@ -1,0 +1,2 @@
+echo "🔎 Rodando lint-staged nos arquivos modificados..."
+npx lint-staged
